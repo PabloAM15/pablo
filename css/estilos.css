@@ -1,0 +1,67 @@
+body {
+	background: #000;
+	color: #fff;
+}
+
+header {
+	background: #000;
+	color: #ffc600;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+nav{
+	background: #000;
+	color: #ffc600;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.nav-link{
+	background: #000;
+	color: #ffc600;
+}
+
+.navbar-brand{
+	background: #000;
+	color: #ffc600;
+}
+.nav-link :disabled{
+	background: #000;
+	color: #ffc600;
+}
+
+
+.contenedor-main {
+	margin-bottom: 20px;
+}
+
+main {
+	background: #181818;
+	color: #fff;
+	padding: 20px 0;
+}
+
+aside {
+	background: #c2c2c2;
+	padding: 60px 0;
+	color: #000;
+}
+
+.widgets {
+	background: #f2f2f2;
+	color: #181818;
+	margin-bottom: 20px;
+}
+
+.widgets > div {
+	background: #181818;
+	color: #fff;
+	padding: 20px;
+}
+
+footer {
+	padding: 20px 0;
+	background: #000;
+	color:#fff;
+}
